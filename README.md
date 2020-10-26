@@ -1,3 +1,2 @@
 # Green-Joule 
 
-## Monitoring Team 
